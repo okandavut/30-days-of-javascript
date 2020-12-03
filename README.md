@@ -5,7 +5,8 @@
 
 
 1. [JavaScript Drum Kit](https://github.com/okandavut/30-days-of-javascript/tree/main/js-drum-kit).
-2. ...
+2. [JavaScript & Css Clock](https://github.com/okandavut/30-days-of-javascript/tree/main/css-js-oclock).
+3. ...
 
 
 
