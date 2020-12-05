@@ -2,7 +2,7 @@
 
 <hr>
 
-![Drum Kit](../array-cardio-day-one/array-cardio-day-one.png)
+![Drum Kit](../array-cardio-day-one/array-cardio-one.png)
 
 ##### Things that i learned :
 
