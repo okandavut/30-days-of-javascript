@@ -8,6 +8,7 @@
 3. [Css-variables-javascript](https://github.com/okandavut/30-days-of-javascript/tree/main/css-variables-javascript)
 4. [Array Cardio Day One](https://github.com/okandavut/30-days-of-javascript/tree/main/array-cardio-day-one)
 5. [Flex Gallery Panel](https://github.com/okandavut/30-days-of-javascript/tree/main/flex-gallery-panel)
-6. ...
+6. [Ajax Type Ahead]()
+7. ...
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
