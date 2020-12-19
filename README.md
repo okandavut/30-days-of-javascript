@@ -9,6 +9,7 @@
 4. [Array Cardio Day One](https://github.com/okandavut/30-days-of-javascript/tree/main/array-cardio-day-one)
 5. [Flex Gallery Panel](https://github.com/okandavut/30-days-of-javascript/tree/main/flex-gallery-panel)
 6. [Ajax Type Ahead](https://github.com/okandavut/30-days-of-javascript/tree/main/ajax-type-ahead)
-7. ...
+7.  [Array Cardio Day Two](https://github.com/okandavut/30-days-of-javascript/tree/main/array-cardio-two)
+8. 
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
