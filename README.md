@@ -14,5 +14,7 @@
 9. [Dev Tools Domination](https://github.com/okandavut/30-days-of-javascript/tree/main/dev-tools-domination)
 10. [Chekbox Operations](https://github.com/okandavut/30-days-of-javascript/tree/main/hold-shift-checkboxes)
 11. [Custom Video Player](https://github.com/okandavut/30-days-of-javascript/tree/main/custom-video-player)
+11. [Key Sequence](https://github.com/okandavut/30-days-of-javascript/tree/main/key-sequence-detection)
+
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
