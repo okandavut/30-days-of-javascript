@@ -13,5 +13,6 @@
 8. [Fun HTML5 Canvas](https://github.com/okandavut/30-days-of-javascript/tree/main/fun-html5-canvas)
 9. [Dev Tools Domination](https://github.com/okandavut/30-days-of-javascript/tree/main/dev-tools-domination)
 10. [Chekbox Operations](https://github.com/okandavut/30-days-of-javascript/tree/main/hold-shift-checkboxes)
+11. [Custom Video Player](https://github.com/okandavut/30-days-of-javascript/tree/main/custom-video-player)
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
