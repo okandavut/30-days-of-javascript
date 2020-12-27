@@ -18,6 +18,11 @@
 13. [Slide Scroll](https://github.com/okandavut/30-days-of-javascript/tree/main/slide-scroll)
 14. [JavaScript Reference](https://github.com/okandavut/30-days-of-javascript/tree/main/javascript-reference)
 15. [Local Storage](https://github.com/okandavut/30-days-of-javascript/tree/main/localstorage)
-14. [Mouse Shadow](https://github.com/okandavut/30-days-of-javascript/tree/main/mouse-shadow)
+16. [Mouse Shadow](https://github.com/okandavut/30-days-of-javascript/tree/main/mouse-shadow)
+17. [Sort Articles](https://github.com/okandavut/30-days-of-javascript/tree/main/sort-without-articles)
+18. [Adding Times Reduce](https://github.com/okandavut/30-days-of-javascript/tree/main/adding-time-reduce)
+19. [Webcam Fun](https://github.com/okandavut/30-days-of-javascript/tree/main/webcam-fun)
+
+short-without-articles
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
