@@ -2,6 +2,6 @@
 
 <hr>
 
-![Dev Tools](../dev-tools-domination/dev-tools.png)
+![Dev Tools](../dev-tools-domination/dev-tools.PNG)
 
 
