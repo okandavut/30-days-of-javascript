@@ -11,6 +11,7 @@
 6. [Ajax Type Ahead](https://github.com/okandavut/30-days-of-javascript/tree/main/ajax-type-ahead)
 7. [Array Cardio Day Two](https://github.com/okandavut/30-days-of-javascript/tree/main/array-cardio-two)
 8. [Fun HTML5 Canvas](https://github.com/okandavut/30-days-of-javascript/tree/main/fun-html5-canvas)
-9. ...
+9. [Dev Tools Domination](https://github.com/okandavut/30-days-of-javascript/tree/main/dev-tools-domination)
+10. [Chekbox Operations](https://github.com/okandavut/30-days-of-javascript/tree/main/hold-shift-checkboxes)
 
 You can reach the course : [JavaScript 30 ](https://javascript30.com/).
