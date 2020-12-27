@@ -22,6 +22,17 @@
 17. [Sort Articles](https://github.com/okandavut/30-days-of-javascript/tree/main/sort-without-articles)
 18. [Adding Times Reduce](https://github.com/okandavut/30-days-of-javascript/tree/main/adding-time-reduce)
 19. [Webcam Fun](https://github.com/okandavut/30-days-of-javascript/tree/main/webcam-fun)
+20. [Speech Detection](https://github.com/okandavut/30-days-of-javascript/tree/main/speech-detection)
+21. [Geolocation](https://github.com/okandavut/30-days-of-javascript/tree/main/geolocation)
+22. [Follow Along Link](https://github.com/okandavut/30-days-of-javascript/tree/main/follow-along-link)
+23. [Speech Synthesis](https://github.com/okandavut/30-days-of-javascript/tree/main/speech-synthesis)
+24. [Sticky Nav](https://github.com/okandavut/30-days-of-javascript/tree/main/sticky-nav)
+25. [Event Operations](https://github.com/okandavut/30-days-of-javascript/tree/main/event-ops)
+26. [Stripe Along Nav](https://github.com/okandavut/30-days-of-javascript/tree/main/stripe-along)
+27. [Click and Drag](https://github.com/okandavut/30-days-of-javascript/tree/main/click-drag)
+28. [Video Speed Controller](https://github.com/okandavut/30-days-of-javascript/tree/main/video-speed)
+29. [Countdown Timer](https://github.com/okandavut/30-days-of-javascript/tree/main/countdown-timer)
+30. [Whack Mole](https://github.com/okandavut/30-days-of-javascript/tree/main/whack-mole)
 
 short-without-articles
 
