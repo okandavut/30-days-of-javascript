@@ -2,6 +2,6 @@
 
 <hr>
 
-![Checkbox Operations](../hold-shift-checkboxes/checkbox-operations.png)
+![Checkbox Operations](../hold-shift-checkboxes/checkbox-operations.PNG)
 
 
